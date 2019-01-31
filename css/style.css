@@ -1,0 +1,58 @@
+
+body {background-color: powderblue;}
+
+h1 {
+    color: #660000;
+    font-family: rig solid;
+    font-size: 200%;
+   margin-left: 295px;
+   text-decoration: underline black;
+}
+#car1 {
+  border: 0;
+}
+h2 {
+    color: #660000;
+    font-family: rig solid;
+    font-size: 200%;
+   margin-left:530px;
+  text-decoration: underline black;
+}
+img {
+   margin-left: 400px;
+    width:400px; /* you can use % */
+    height: auto;
+}
+p  {
+    color: black;
+    font-family: ; rival
+    font-size: 160%;
+  border-style: solid;
+    border-color: black;
+}
+
+table, th, td {
+  border-style: solid;
+    border-color: black;
+}
+  h3 {
+    color: #660000;
+    font-family: rig solid;
+    font-size: 190%;
+    text-decoration: underline black;
+}
+#copy1 {
+  border: 0;
+}
+#copy1 {
+  margin-left: 600px;
+}
+#engine {
+  border: 0;   
+  max-width: 40%;
+ font-size: 16px;
+   font-style: sArial, Helvetica, sans-serif;
+}
+#toy {
+   margin-left: 00px;
+}
